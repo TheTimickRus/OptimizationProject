@@ -5,12 +5,12 @@ using System.Windows;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набор атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("OptimiationProject by Timick")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("OptimiationProject")]
+[assembly: AssemblyDescription("OptimiationProject")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("© Timick")]
 [assembly: AssemblyProduct("OptimiationProject")]
-[assembly: AssemblyCopyright("Copyright © Timick 2019")]
+[assembly: AssemblyCopyright("Copyright © Timick 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -49,5 +49,5 @@ using System.Windows;
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
 //[assembly: AssemblyVersion("3.0.0.*")]
-[assembly: AssemblyVersion("3.1")]
-[assembly: AssemblyFileVersion("3.1")]
+[assembly: AssemblyVersion("3.2")]
+[assembly: AssemblyFileVersion("3.2")]
